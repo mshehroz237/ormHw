@@ -8,6 +8,11 @@ To Run this application first you will need to do npm run seeds to seed the data
 https://github.com/mshehroz237/ormHw
 
 # Video
+
+# Seeding the databse and running from mysql shell
+https://drive.google.com/file/d/1TQzfCQM0h6AJ63bX7H7PfMCwNPBOj-2M/view
+
+# WalkThrus
 https://drive.google.com/file/d/1czwZwOBS_xyLUIEJIUPaGAmGPeSLIk4E/view
 
 https://drive.google.com/file/d/1TXEm4fYgutyFEzAebiYmSCcQjhIERhzP/view
