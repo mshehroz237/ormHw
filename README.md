@@ -1,7 +1,7 @@
 # E-commerce Back End Starter Code
 
 In this applicaton first created the models and then created the assosiation, after that made CURD for all for the models(get,Put,post,destroy).
-To Run this application first youy will need to do npm rin seed to seed the database and then in routes/api/index.js has all the needed routes to test the applications funcionality.
+To Run this application first you will need to do npm run seeds to seed the database and then in routes/api/index.js has all the needed routes to test the applications funcionality.
 
 # Github Repo
 
